@@ -1,0 +1,14 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", He
+    lvetica, Arial, sans-serif;
+    background-color: saddlebrown;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.floatright {
+    float: right;
+}
